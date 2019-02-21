@@ -1,0 +1,2 @@
+allow system_server sysfs_usb_role_writeable:file { getattr open write };
+
